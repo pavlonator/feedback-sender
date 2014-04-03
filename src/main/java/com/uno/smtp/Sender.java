@@ -30,7 +30,7 @@ public class Sender {
             message.setFrom(new InternetAddress(from));
             message.setRecipients(Message.RecipientType.TO,
                     InternetAddress.parse(props.getProperty("gmail.receiver")));
-            message.setSubject(props.getProperty("gmail.subject.prefix") + " " + subject);
+            message.setSubject(props.getProperty("gmail.subject.prefix") + " from " + from + " " + subject);
             message.setText(text);
 
             Transport.send(message);
