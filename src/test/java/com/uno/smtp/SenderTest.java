@@ -12,6 +12,6 @@ public class SenderTest {
         String from = "pavlocherkashyn@gmail.com";
         String text = "button does not work";
         String subject = "i found a bug on your website";
-        //Sender.sendEmail(from, subject, text);
+        //GmailHandler.sendEmail(from, subject, text);
     }
 }

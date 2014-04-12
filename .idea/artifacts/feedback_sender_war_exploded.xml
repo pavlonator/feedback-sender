@@ -11,6 +11,47 @@
           <element id="library" level="project" name="Maven: javax.mail:mail:1.4" />
           <element id="library" level="project" name="Maven: javax.activation:activation:1.1" />
           <element id="library" level="project" name="Maven: javax.servlet:servlet-api:2.4" />
+          <element id="library" level="project" name="Maven: com.sun.jersey:jersey-client:1.5" />
+          <element id="library" level="project" name="Maven: com.sun.jersey:jersey-core:1.5" />
+          <element id="library" level="project" name="Maven: com.sun.jersey.contribs:jersey-apache-client:1.5" />
+          <element id="library" level="project" name="Maven: commons-httpclient:commons-httpclient:3.1" />
+          <element id="library" level="project" name="Maven: commons-logging:commons-logging:1.0.4" />
+          <element id="library" level="project" name="Maven: commons-codec:commons-codec:1.2" />
+          <element id="library" level="project" name="Maven: com.sun.jersey:jersey-json:1.5" />
+          <element id="library" level="project" name="Maven: org.codehaus.jettison:jettison:1.1" />
+          <element id="library" level="project" name="Maven: stax:stax-api:1.0.1" />
+          <element id="library" level="project" name="Maven: com.sun.xml.bind:jaxb-impl:2.2.3" />
+          <element id="library" level="project" name="Maven: javax.xml.bind:jaxb-api:2.2.2" />
+          <element id="library" level="project" name="Maven: javax.xml.stream:stax-api:1.0-2" />
+          <element id="library" level="project" name="Maven: org.codehaus.jackson:jackson-core-asl:1.5.5" />
+          <element id="library" level="project" name="Maven: org.codehaus.jackson:jackson-mapper-asl:1.5.5" />
+          <element id="library" level="project" name="Maven: org.codehaus.jackson:jackson-jaxrs:1.5.5" />
+          <element id="library" level="project" name="Maven: org.codehaus.jackson:jackson-xc:1.5.5" />
+          <element id="library" level="project" name="Maven: com.atlassian.jira:jira-rest-java-client:2.0.0-m1" />
+          <element id="library" level="project" name="Maven: joda-time:joda-time:1.6" />
+          <element id="library" level="project" name="Maven: com.google.guava:guava:13.0" />
+          <element id="library" level="project" name="Maven: com.atlassian.httpclient:atlassian-httpclient-apache-httpcomponents:0.11.0" />
+          <element id="library" level="project" name="Maven: com.atlassian.httpclient:atlassian-httpclient-api:0.11.0" />
+          <element id="library" level="project" name="Maven: com.atlassian.httpclient:atlassian-httpclient-spi:0.11.0" />
+          <element id="library" level="project" name="Maven: com.atlassian.util.concurrent:atlassian-util-concurrent:2.4.0-M9" />
+          <element id="library" level="project" name="Maven: com.atlassian.sal:sal-api:2.7.0" />
+          <element id="library" level="project" name="Maven: com.atlassian.event:atlassian-event:2.2.0" />
+          <element id="library" level="project" name="Maven: commons-lang:commons-lang:2.4" />
+          <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.6.4" />
+          <element id="library" level="project" name="Maven: org.apache.httpcomponents:httpasyncclient-cache:4.0-beta3-atlassian-1" />
+          <element id="library" level="project" name="Maven: org.apache.httpcomponents:httpasyncclient:4.0-beta3-atlassian-1" />
+          <element id="library" level="project" name="Maven: org.apache.httpcomponents:httpcore:4.2.2" />
+          <element id="library" level="project" name="Maven: org.apache.httpcomponents:httpcore-nio:4.2.2" />
+          <element id="library" level="project" name="Maven: org.apache.httpcomponents:httpclient:4.2.1-atlassian-2" />
+          <element id="library" level="project" name="Maven: org.apache.httpcomponents:httpclient-cache:4.2.1-atlassian-2" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-context:2.5.6" />
+          <element id="library" level="project" name="Maven: aopalliance:aopalliance:1.0" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-beans:2.5.6" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-core:2.5.6" />
+          <element id="library" level="project" name="Maven: org.apache.httpcomponents:httpmime:4.1.2" />
+          <element id="library" level="project" name="Maven: com.atlassian.jira:jira-rest-java-client-core:2.0.0-m19" />
+          <element id="library" level="project" name="Maven: com.atlassian.jira:jira-rest-java-client-api:2.0.0-m19" />
+          <element id="library" level="project" name="Maven: org.slf4j:slf4j-simple:1.6.4" />
         </element>
       </element>
     </root>

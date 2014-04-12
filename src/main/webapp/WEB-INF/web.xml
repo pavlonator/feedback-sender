@@ -7,7 +7,7 @@
 
     <servlet>
         <servlet-name>FeedbackServlet</servlet-name>
-        <servlet-class>com.uno.smtp.FeedbackServlet</servlet-class>
+        <servlet-class>com.uno.feedback.FeedbackServlet</servlet-class>
     </servlet>
     <servlet-mapping>
         <servlet-name>FeedbackServlet</servlet-name>
